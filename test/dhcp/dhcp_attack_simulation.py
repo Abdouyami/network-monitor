@@ -24,7 +24,7 @@ except ImportError:
     sys.exit("This script requires scapy. Install it using: pip install scapy")
 
 class EnhancedDHCPAttackSimulator:
-    """More aggressive DHCP attack simulation for testing detection systems"""
+    """-More aggressive DHCP attack simulation for testing detection systems-"""
     
     def __init__(self, interface: str = None, offered_ip: str = None, rogue_ip: str = None,
                  gateway_ip: str = None, subnet_mask: str = None, 
