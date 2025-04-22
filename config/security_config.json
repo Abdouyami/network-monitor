@@ -1,6 +1,0 @@
-{
-  "authorized_ip": "192.168.100.15",
-  "authorized_mac": "C0:3C:59:8A:8B:67",
-  "require_token": false,
-  "authorized_port": 5050
-}
