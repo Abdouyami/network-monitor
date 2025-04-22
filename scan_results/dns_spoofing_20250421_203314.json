@@ -1,0 +1,16 @@
+[
+  {
+    "domain": "google.com",
+    "ip_addresses": [
+      "142.250.200.206",
+      "2a00:1450:4006:80c::200e"
+    ],
+    "source_ips": [
+      "192.168.100.1"
+    ],
+    "timestamp": "2025-04-21T20:33:14.279980",
+    "threat_type": "dns_spoofing",
+    "severity": "high",
+    "details": "Domain google.com resolved to multiple IPs from different sources: 142.250.200.206, 2a00:1450:4006:80c::200e"
+  }
+]

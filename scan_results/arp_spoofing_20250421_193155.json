@@ -1,0 +1,13 @@
+[
+  {
+    "ip": "192.168.100.1",
+    "mac_addresses": [
+      "94:90:10:28:8b:96",
+      "aa:bb:cc:dd:ee:ff"
+    ],
+    "timestamp": "2025-04-21T19:31:55.625063",
+    "threat_type": "arp_spoofing",
+    "severity": "high",
+    "details": "Multiple MAC addresses (2) for IP 192.168.100.1: 94:90:10:28:8b:96, aa:bb:cc:dd:ee:ff"
+  }
+]

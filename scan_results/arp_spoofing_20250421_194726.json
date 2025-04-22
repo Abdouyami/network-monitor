@@ -1,0 +1,21 @@
+[
+  {
+    "ip": "192.168.100.1",
+    "legit_mac": "94:90:10:28:8b:96",
+    "spoofed_macs": [
+      "aa:bb:cc:dd:ee:ff"
+    ],
+    "mac_addresses": [
+      "aa:bb:cc:dd:ee:ff",
+      "94:90:10:28:8b:96"
+    ],
+    "victims": [
+      "192.168.100.3",
+      "192.168.100.19"
+    ],
+    "timestamp": "2025-04-21T19:47:26.650812",
+    "threat_type": "arp_spoofing",
+    "severity": "high",
+    "details": "192.168.100.1 has multiple MACs. Victims: 192.168.100.3, 192.168.100.19"
+  }
+]

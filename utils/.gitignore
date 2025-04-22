@@ -1,0 +1,6 @@
+# Ignore folders
+logs/
+scan_results/
+
+# Ignore files
+config/*.json
